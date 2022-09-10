@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/PythonPete32?template=classic&base.indepth=true&base.hireable=true&languages=1&lines=1&habits=1&tweets=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&tweets=false&tweets.user=AaronAbuUsama&tweets.attachments=true&tweets.limit=2&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Asia%2FDubai&config.twemoji=true&config.octicon=true)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/pythonpete32/pythonpete32/blob/main/images/stat.svg"
+  alt="My Coding Stats"
+/>
